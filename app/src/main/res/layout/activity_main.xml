@@ -122,7 +122,7 @@
                 android:id="@+id/L1"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:minHeight="665dp"
+                android:minHeight="750dp"
                 android:orientation="vertical">
 
                 <TextView
@@ -184,7 +184,7 @@
                 android:id="@+id/L2"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:minHeight="665dp"
+                android:minHeight="750dp"
                 android:orientation="vertical">
 
                 <TextView
@@ -246,7 +246,7 @@
                 android:id="@+id/L3"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:minHeight="665dp"
+                android:minHeight="750dp"
                 android:orientation="vertical">
 
                 <TextView
@@ -308,7 +308,7 @@
                 android:id="@+id/L4"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:minHeight="665dp"
+                android:minHeight="750dp"
                 android:orientation="vertical">
 
                 <TextView
@@ -370,7 +370,7 @@
                 android:id="@+id/L5"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:minHeight="730dp"
+                android:minHeight="800dp"
                 android:orientation="vertical">
 
                 <TextView
