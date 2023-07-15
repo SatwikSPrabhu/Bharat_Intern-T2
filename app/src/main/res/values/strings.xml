@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="Q1">1. What is an activity in android?</string>
+    <string name="Q1Option1">a. android class</string>
+    <string name="Q1Option2">b. android package</string>
+    <string name="Q1Option3">c. A single screen in an application with supporting java code</string>
+    <string name="Q1Option4">d. None of the above</string>
+    <string name="Q2">2. All layout classes are the subclasses of</string>
+    <string name="Q2Option1">a. android.widget</string>
+    <string name="Q2Option2">b. android.view.View</string>
+    <string name="Q2Option3">c. android.view.ViewGroup</string>
+    <string name="Q2Option4">d. None</string>
+    <string name="Q3">3. What is manifest XML in android?</string>
+    <string name="Q3Option1">a. it has information about layout in an application</string>
+    <string name="Q3Option2">b. it has all the information about an application</string>
+    <string name="Q3Option3">c. it has information about activities in an application</string>
+    <string name="Q3Option4">d. None</string>
+    <string name="Q4">4. The services in android can be stopped using which of the following method?</string>
+    <string name="Q4Option1">a. system.exit() method</string>
+    <string name="Q4Option2">b. stopSelf() and stopService() method</string>
+    <string name="Q4Option3">c. finish() method</string>
+    <string name="Q4Option4">d. end() method</string>
+    <string name="Q5">5. Choose among the following tabs in which an error is shown</string>
+    <string name="Q5Option1">a. ADB logs</string>
+    <string name="Q5Option2">b. Memory</string>
+    <string name="Q5Option3">c. CPU</string>
+    <string name="Q5Option4">d. Logcat</string>
+</resources>
